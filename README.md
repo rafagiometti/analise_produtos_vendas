@@ -1,6 +1,6 @@
 # Projeto Banco de Dados para E-commerce
 
-Este projeto é uma estrutura de banco de dados para um e-commerce fictício, abordando desde dados de clientes e localização até pedidos, produtos e avaliações. Com a utilização SQL para criar e organizar tabelas, extrair e importar dados, manipular e transformar informações, e criar visualizações através de `views`.
+Este projeto é uma estrutura de banco de dados para um e-commerce fictício, abordando desde dados de clientes e localização até pedidos, produtos e avaliações. Com a utilização do SQL para criar e organizar tabelas, extrair e importar dados, manipular e transformar informações, e criar visualizações através de `views`.
 
 ## Habilidades Utilizadas
 Este projeto aplica as seguintes habilidades e práticas de SQL:
