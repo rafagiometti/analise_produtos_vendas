@@ -1,13 +1,13 @@
 # Projeto Banco de Dados para E-commerce
 
-Este projeto é uma estrutura de banco de dados para um e-commerce fictício, abordando desde dados de clientes e localização até pedidos, produtos e avaliações. Utilizamos SQL para criar e organizar tabelas, extrair e importar dados, manipular e transformar informações, e criar visualizações através de `views`.
+Este projeto é uma estrutura de banco de dados para um e-commerce fictício, abordando desde dados de clientes e localização até pedidos, produtos e avaliações. Com a utilização SQL para criar e organizar tabelas, extrair e importar dados, manipular e transformar informações, e criar visualizações através de `views`.
 
 ## Habilidades Utilizadas
 Este projeto aplica as seguintes habilidades e práticas de SQL:
 
-- **Extração de Dados**: Realizamos consultas para visualizar dados de diferentes tabelas (por exemplo, `SELECT * FROM`).
-- **Importação de Dados**: Inserimos dados de tabelas já existentes para novas tabelas com `INSERT INTO...SELECT`.
-- **Manipulação e Transformação de Dados**: Manipulamos dados durante a criação de novas tabelas e alteramos colunas para ajustar o tamanho e o tipo de dados com `ALTER TABLE`.
+- **Extração de Dados**: Realizei consultas para visualizar dados de diferentes tabelas (por exemplo, `SELECT * FROM`).
+- **Importação de Dados**: Inseri dados de tabelas já existentes para novas tabelas com `INSERT INTO...SELECT`.
+- **Manipulação e Transformação de Dados**: Manipulei dados durante a criação de novas tabelas e alteramos colunas para ajustar o tamanho e o tipo de dados com `ALTER TABLE`.
 - **Limpeza de Dados**: Exemplo de limpeza de dados incluindo atualização de valores nulos (`UPDATE ... SET ... WHERE`).
 - **Criação de Tabelas**: Estruturação de tabelas com diferentes tipos de dados (`CREATE TABLE`).
 - **Visualização de Dados**: Criação de uma `VIEW` que facilita a consulta de pedidos com detalhes sobre clientes, incluindo cidade e estado.
